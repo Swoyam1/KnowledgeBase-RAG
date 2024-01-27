@@ -33,10 +33,11 @@ npm install
 
 #### Step-3: 
 
+```sh
 Create a SEARCH INDEX in MONGODB ATLAS
+```
 
-
-#### Step-4: .env Configuration
+#### Step-4: 
 
 Create a .env file in root folder and write these code
 
@@ -63,6 +64,3 @@ After starting the server it should be running on http://localhost:7000
 #### /query
 * `POST` : Post query and get the answer to the query in response
 <br />
-<p align="center">
- 
-</p>
