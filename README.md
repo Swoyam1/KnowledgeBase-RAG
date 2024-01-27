@@ -31,7 +31,21 @@ Install all dependencies
 npm install
 ```
 
-#### Step-3: Starting the server
+#### Step-3: 
+
+Create a SEARCH INDEX in MONGODB ATLAS
+
+
+#### Step-4: .env Configuration
+
+Create a .env file in root folder and write these code
+
+```sh
+MONGO_URL = "PROVIDE YOUR MONGODB ATLAS URL"
+OPENAI_API_KEY = "PROVIDE YOUR OPENAI API KEY"
+```
+
+#### Step-5: Starting the server
 
 Finally to start the server execute this script
 
