@@ -63,4 +63,11 @@ After starting the server it should be running on http://localhost:7000
 
 #### /query
 * `POST` : Post query and get the answer to the query in response
+  
+```sh
+# body
+{
+  "query" : "PROVIDE YOUR QUERY"
+}
+```
 <br />
