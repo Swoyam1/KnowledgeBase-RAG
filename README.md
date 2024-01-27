@@ -10,7 +10,7 @@
 - Embedding API (OpenAI)
 - Thunder Client (API CLIENT)
 
-## :rocket: Local Development
+## Local Development
 
 Start developing locally.
 
