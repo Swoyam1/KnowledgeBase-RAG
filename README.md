@@ -54,6 +54,14 @@ npm run dev
 ```
 After starting the server it should be running on http://localhost:7000
 
+
+## API
+
+#### /document
+* `GET` : Get response document after adding to the database
+
+#### /query
+* `POST` : Post query and get the answer to the query in response
 <br />
 <p align="center">
  
