@@ -6,7 +6,7 @@ import processAllPDFsInFolder from "../utils/parsePDF.js";
 
 const router = express.Router();
 
-router.get("/", async (req, res) => {
+router.post("/", async (req, res) => {
   try {
     const pdfFolderPath = "../pdf";
     const text = await processAllPDFsInFolder(pdfFolderPath);
